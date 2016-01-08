@@ -1,0 +1,89 @@
+fileFormatVersion: 2
+guid: 4dfe73d6a8d49594b9fc68ea49464bc5
+timeCreated: 1452270741
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: towers_grey_sheet_0
+    21300002: towers_grey_sheet_1
+    21300004: towers_grey_sheet_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 160
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: towers_grey_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 285
+        width: 79
+        height: 78
+      alignment: 9
+      pivot: {x: .499695599, y: .417705297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: towers_grey_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 262
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: towers_grey_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 281
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
